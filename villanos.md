@@ -1,4 +1,4 @@
 # Villanos
-*dr.doom
-*red skull
-*dr.exel
+* dr.doom
+* red skull
+* Capitan america
